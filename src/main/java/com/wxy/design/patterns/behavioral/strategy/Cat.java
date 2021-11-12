@@ -1,5 +1,7 @@
 package com.wxy.design.patterns.behavioral.strategy;
 
+import java.util.Comparator;
+
 public class Cat implements Comparable<Cat> {
 
     private int weight;
