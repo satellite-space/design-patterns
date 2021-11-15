@@ -10,7 +10,7 @@ target/
 .springBeans
 
 ## IntelliJ IDEA ##
-.idea
+.idea/
 *.iws
 *.iml
 *.ipr
@@ -20,3 +20,4 @@ rebel.xml
 
 ## MAC ##
 .DS_Store
+.idea/modules.xml
