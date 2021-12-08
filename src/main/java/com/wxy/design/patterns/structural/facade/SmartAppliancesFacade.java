@@ -1,7 +1,7 @@
 package com.wxy.design.patterns.structural.facade;
 
 /**
- * 智能音箱——门面类
+ * 智能音箱——外观角色
  *
  * @author wxy
  * @version 1.0
